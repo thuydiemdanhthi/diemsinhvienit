@@ -10,6 +10,11 @@ file 4
 =======
 file 5
 >>>>>>> 48bdefce25d318579383d1551a9421c9f76c0e73
+<<<<<<< HEAD
 
 Danh diem
 local
+=======
+da thú
+remote
+>>>>>>> 963fa359fb24e5f328f056cab4b3d514d324563b
