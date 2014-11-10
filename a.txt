@@ -11,3 +11,4 @@ file 4
 file 5
 >>>>>>> 48bdefce25d318579383d1551a9421c9f76c0e73
 da thú
+remote
