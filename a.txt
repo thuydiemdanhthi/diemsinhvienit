@@ -1,4 +1,8 @@
 file 1
 file 2
 file 3
+<<<<<<< HEAD
 
+=======
+file 4
+>>>>>>> a00c9a0cac393e6865205610eae344b975a7df7e
